@@ -11,8 +11,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-<script src="https://cdn.jsdelivr.net/npm/appwrite@13.0.1"></script>
-<script>
-    const { Client } = Appwrite;
-</script>
 reportWebVitals(sendToVercelAnalytics);
